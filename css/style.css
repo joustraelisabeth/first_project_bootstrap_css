@@ -1,0 +1,61 @@
+body {
+
+  background-color:#b19b5a
+
+
+}
+
+.jumbotron {
+
+background-color:#79662c
+    
+}
+
+.callout hr {
+
+  color:#79662c  
+}
+
+.jumbotron h1, p, small {
+
+color:#ffffff
+    
+}
+
+.jumbotron button {
+
+    border-radius: 50px;
+    background:#b19b5a;
+    border:#b19b5a;
+    font-weight: bold;
+}
+
+.jumbotron mark {
+
+    border-radius: 10px;
+    background:#e7e1cd;
+    border:#b19b5a;
+    padding:10px;  
+
+}
+
+
+.jumbotron button:hover {
+
+    background:#ffffff;
+    color:#79662c;
+}
+
+.features span {
+
+    border-radius: 10px;
+    background:#e7e1cd;
+    border:#b19b5a;
+    padding:10px;  
+    color:#31290f
+}
+
+feature i {
+
+    font-size:30;
+}
